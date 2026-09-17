@@ -1,5 +1,5 @@
 # PIC16F877a_LineFollowerRobot
-A PIC16F877a based line follower robot interfaced with three IR sensors and a bang bang control logic programmed in PIC assembly
+A PIC16F877a based line follower robot interfaced with three IR sensors and a bang bang control logic programmed in PIC assembly. This was a group term end project for my Microprocessors and Microcontroller Laboratory class. 
 
 # Hardware
 - PIC16F877a
